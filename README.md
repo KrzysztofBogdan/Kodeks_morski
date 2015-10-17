@@ -3,11 +3,9 @@
 | 2013-09-19    | zm. DZ.U.2013.1014 art. 5, art. 8 |
 | 2015-01-01    | zm. DZ.U.2014.1554 art. 2         |
 
-
-
-USTAWA
+# USTAWA
 z dnia 18 września 2001 r.
-Kodeks morski
+## Kodeks morski
 (tekst   jednolity) 
 
 ### TYTUŁ I
